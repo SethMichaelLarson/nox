@@ -59,6 +59,7 @@ Nox is lucky to have several wonderful projects that use it and provide feedback
 - `Google Assistant SDK <https://github.com/googlesamples/assistant-sdk-python>`__
 - `OpenCensus Python <https://github.com/census-instrumentation/opencensus-python>`__
 - `Subpar <https://github.com/google/subpar>`__
+- `urllib3 <https://github.com/urllib3/urllib3>`__
 
 
 Other useful projects
